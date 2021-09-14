@@ -4,7 +4,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
 ![PHP](https://img.shields.io/badge/PHP-Expert-lightblue)
 ![MySQL](https://img.shields.io/badge/MySQL-Expert-cyan)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-Intermediate-purple)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-Intermediate-red)
 ![NodeJS](https://img.shields.io/badge/NodeJS-Beginner-green)
 
 <p>Backend Developer based in Majalengka, Indonesia.</p>
