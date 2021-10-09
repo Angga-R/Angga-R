@@ -1,7 +1,7 @@
 # Hi, My name is Anggara
 
 ![Java](https://img.shields.io/badge/Java-Intermediate-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 ![PHP](https://img.shields.io/badge/PHP-Expert-lightblue)
 ![MySQL](https://img.shields.io/badge/MySQL-Expert-cyan)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-Intermediate-red)
