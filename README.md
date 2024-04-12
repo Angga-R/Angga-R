@@ -11,7 +11,7 @@
 - 🎓 I am currently studying software engineering in SMKN 1 Talaga. <br>
 - 💻 I'm currently learning JavaScript, and next going to NodeJS.<br>
 - 📫 How to find me: <br>
-<a href="https://www.instagram.com/king_4r17/">Instagram</a> or 
+<a href="https://www.instagram.com/angga_4r17/">Instagram</a> or 
 <a href="https://www.facebook.com/shalangga.id/">Facebook</a>
 
 <!---
