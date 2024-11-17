@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning NodeJS
+I'm currently learning NodeJS, RestFul API, Microservices, and Java 
 
 
 ## 🌐 Socials:
